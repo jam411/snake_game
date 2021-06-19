@@ -34,6 +34,22 @@ impl Game {
     fn update(&mut self) {
         self.snake.update();
     }
+
+    fn pressed(&mut self, btn: &Button) {
+        let last_direction = self.snake.dir.clone();
+
+        self.snake.dir = match btn {
+            &Button::Keyboard(Key::Up)
+                if last_direction != Direction::Down => Direction::Up,
+            &Button::Keyboard(Key::Down)
+                if last_direction != Direction::Up => Direction::Down,
+            &Button::Keyboard(Key::Left)
+                if last_direction != Direction::Right => Direction::Left,
+            &Button::Keyboard(Key::Right)
+                if last_direction != Direction::Left => Direction::Right,    
+            _ => last_direction        
+        };
+    }
 }
 
 struct Snake {
@@ -44,7 +60,7 @@ struct Snake {
 
 impl Snake {
     fn render(&self, gl: &mut GlGraphics, args: &RenderArgs) {
-        let yellow: [f32; 4] = [1.0, 0.0, 0.0, 1.0];
+        let yellow: [f32; 4] = [1.0, 0.0, 0.0, 0.0];
 
         let square = graphics::rectangle::square((self.pos_x * 20) as f64, (self.pos_y * 20) as f64, 20_f64);
 
@@ -82,7 +98,7 @@ fn main() {
         snake: Snake { pos_x: 9, pos_y: 9, dir: Direction::Right },
     };
 
-    let mut events = Events::new(EventSettings::new());
+    let mut events = Events::new(EventSettings::new()).ups(8);
     while let Some(e) = events.next(&mut window) {
 
         if let Some(r) = e.render_args() {
@@ -91,6 +107,12 @@ fn main() {
 
         if let Some(u) = e.update_args() {
             game.update();
+        }
+
+        if let Some(k) = e.button_args() {
+            if k.state == ButtonState::Press {
+                game.pressed(&k.button);
+            }
         }
     }
 }
