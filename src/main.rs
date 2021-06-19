@@ -9,6 +9,9 @@ use piston::input::*;
 use glutin_window::GlutinWindow;
 use opengl_graphics::{GlGraphics, OpenGL};
 
+
+
+#[derive(Clone, PartialEq)]
 enum Direction {
     Right, Left, Up, Down
 }
