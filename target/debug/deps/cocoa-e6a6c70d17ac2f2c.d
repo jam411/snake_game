@@ -1,0 +1,12 @@
+/Users/ryojisimizu/rust/snake_game/target/debug/deps/cocoa-e6a6c70d17ac2f2c.rmeta: /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/ryojisimizu/rust/snake_game/target/debug/deps/libcocoa-e6a6c70d17ac2f2c.rlib: /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/ryojisimizu/rust/snake_game/target/debug/deps/cocoa-e6a6c70d17ac2f2c.d: /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs
+
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/lib.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/appkit.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/base.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/foundation.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/quartzcore.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/cocoa-0.23.0/src/macros.rs:

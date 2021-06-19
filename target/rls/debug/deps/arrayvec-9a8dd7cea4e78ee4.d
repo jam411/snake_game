@@ -1,0 +1,11 @@
+/Users/ryojisimizu/rust/snake_game/target/rls/debug/deps/arrayvec-9a8dd7cea4e78ee4.rmeta: /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs
+
+/Users/ryojisimizu/rust/snake_game/target/rls/debug/deps/arrayvec-9a8dd7cea4e78ee4.d: /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs /Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs
+
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/lib.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/maybe_uninit_stable.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/array_string.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/char.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/range.rs:
+/Users/ryojisimizu/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.12/src/errors.rs:

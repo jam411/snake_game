@@ -1,0 +1,1 @@
+{"rustc":10368881109578526382,"features":"[]","target":10247324555957369528,"profile":15155709024791400979,"path":13160215203024304593,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/piston-float-115ac1bec1c48140/dep-lib-float"}}],"rustflags":["-C","link-arg=-undefined","-C","link-arg=dynamic_lookup"],"metadata":13007541332714136724,"config":0,"compile_kind":0}
